@@ -2,7 +2,7 @@
 
 I am a JSR-385 EG Member, and I have been involved in open source as a contributor or creator of software with over 3 million downloads overall (JSR-385, Jasmine, percircle, math.js). Besides, I have the honor to be the Founder & Leader of <a href="https://www.meetup.com/Utrecht-Java-User-Group">Utrecht JUG</a>.
 
-- 🔭 I’m currently working on The Definitive Guide to Security in Jakarta EE (**available for preorder**)
+- 🔭 I’m currently working on The Definitive Guide to Security in Jakarta EE (**available for preorder**) - [![Twitter](https://img.shields.io/badge/Twitter-jakartasecbook-informational?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/jakartasecbook/)
 
 <a href="https://www.amazon.com/Definitive-Guide-Security-Jakarta-Authentication/dp/1484279441/ref=sr_1_1?qid=1642032426">
   <img  src="jakarta-ee-security-cover.jpg" alt="Jakarta EE Security book"
