@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a JSR-385 EG Member, and I have been involved in open source as a contributor or creator of software with over 3 million downloads overall (JSR-385, Jasmine, percircle, math.js).
+I am a JSR-385 EG Member, and I have been involved in open source as a contributor or creator of software with over 3 million downloads overall (JSR-385, Jasmine, percircle, math.js). Besides, I have the honor to be the Founder & Leader of <a href="https://www.meetup.com/Utrecht-Java-User-Group">Utrecht JUG</a>.
 
 - 🔭 I’m currently working on The Definitive Guide to Security in Jakarta EE (**available for preorder**)
 
