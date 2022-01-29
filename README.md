@@ -12,3 +12,5 @@ I am a programmer who nowadays enjoys improving agile processes and engineering 
 - 🌱 Currently, I am an Executive MBA candidate at TIAS School for Business and Society. If you feel my contributions to the software community are helpful, I would appreciate it if you could support my journey. You can find the gofundme campaign <a href="https://www.gofundme.com/f/help-thodoris-inspire-more-people-with-his-mba">here</a> and the corresponding LinkedIn post <a href="https://www.linkedin.com/posts/activity-6866794800570601472-dFz0">here</a>
 
 - 💬 Ask me about career development, startups, presentations, public speaking, and mindset
+
+- ☕ [Buy me a coffee](https://paypal.me/thodorisbais)
